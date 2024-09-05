@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fedor
 =============================================================================================================================
 
-Fullstack & Frontend developer
+Fullstack developer
 ------------------------------
 
 My name is Fedor and I do website layout. \-I've been creating websites for over a year🦾 -I work with languages such as: HTML, CSS, JavaScript, NodeJS💻 My skills: - Designer skills - Creative vein - if you don't know what kind of design you want or can't decide on a choice, then I will always help you - Responsiveness - Productivity - Responsibility I will be glad to work with you ;)
